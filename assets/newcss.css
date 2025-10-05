@@ -390,12 +390,11 @@ img {
 
 /*===================== About ==================*/
 .about__img {
-  width: 200px;
-  border-radius: 400%;
-  justify-self: bottom;
+  width: 170px;
+  border-radius: 500%;
+  justify-self: center;
   align-self: center;
-  transform: scale(1.2); /* Increase value slightly for more zoom */
-  transition: transform 0.3s ease; /* Optional: smooth zoom effect */
+  /* border: 1px solid #fff; */
 }
 
 
